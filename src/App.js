@@ -45,7 +45,6 @@ toggleNavbar() {
               </Collapse>
           </Navbar>
 
-
           <Route path="/" component={Home} exact />
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />

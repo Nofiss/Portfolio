@@ -1,0 +1,24 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: slategrey;
+    height: 6%;
+    position: fixed;
+    bottom: 0;
+}
+
+.nome {
+    margin-left: 2%;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.email {
+    margin-right: 2%;
+    color: white;
+    display: flex;
+    align-items: center;
+}

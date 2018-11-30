@@ -5,12 +5,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 3% 0 3% 0;
+    padding: 2% 0 0 0;
 }
 
 .imgHome {
-    width: 26%;
-    margin: 2% 0 0 0;
+    width: 25%;
+    margin: 2% 0 3% 0;
 }
 
 .titolo {

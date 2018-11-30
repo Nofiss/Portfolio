@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../../css/Home/Home.css';
-import Logo from '../../image/Logo.jpg'
+import Logo from '../../image/Logo.jpg';
+import Footer from '../Footer/Footer.js';
 
 class Home extends Component {
   render() {
@@ -9,6 +10,7 @@ class Home extends Component {
         <div className="home">
           <div className="titolo">Il mio Portfolio</div>
           <img src={Logo} alt="logo" className="imgHome" />
+          <Footer />
         </div>
       </div>
     )

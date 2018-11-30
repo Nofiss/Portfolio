@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import '../../css/Contact/Contact.css';
 import logo from '../../image/Logo.jpg';
 import Register from '../Register/Register.js'
+import Footer from '../Footer/Footer';
 
 class Contact extends Component {
   render() {
@@ -12,6 +13,7 @@ class Contact extends Component {
         <div className="form">
           <Register />
         </div>
+        <Footer />
       </div>
     )
   }
