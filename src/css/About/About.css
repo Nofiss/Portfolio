@@ -1,0 +1,32 @@
+.imgAbout {
+    width: 5%;
+    position: absolute;
+    margin: 0 0 0 93%;
+}
+
+.about {
+    width: 50%;
+    margin: 2% 0 0 20%;
+    padding: 3% 2% 2% 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.titoloAbout {
+    font-size: 55px;
+    font-weight: bold;
+    color: darkred;
+    padding-top: 2%;
+}
+
+.testo {
+    font-size: 25px;
+    padding-top: 5%;
+}
+
+.foto {
+    width: 10%;
+    padding-top: 5%;
+}

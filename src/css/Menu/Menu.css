@@ -1,0 +1,24 @@
+.navitem {
+    margin: 10px 5px 10px 10px;
+    font-size: 20px;
+}
+
+.navitemHome {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.link {
+    color: lightblue;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 800px) {
+    .navitem {
+        margin: 0;
+    }
+}

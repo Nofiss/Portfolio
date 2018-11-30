@@ -1,0 +1,26 @@
+.form {
+    width: 75%;
+    margin: 3% 10% 0 10%;
+    font-size: 20px;
+}
+
+.button {
+    margin-top: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.imgContact {
+    width: 5%;
+    position: absolute;
+    margin: 1% 0 0 93%;
+}
+
+.titoloContact {
+    text-align: center;
+    margin-top: 1%;
+    color: darkred;
+    font-size: 50px;
+}

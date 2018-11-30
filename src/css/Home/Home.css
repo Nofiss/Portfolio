@@ -1,0 +1,20 @@
+.home {
+    background-color: lightgrey;
+    /*min-height: 94vh;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3% 0 3% 0;
+}
+
+.imgHome {
+    width: 26%;
+    margin: 2% 0 0 0;
+}
+
+.titolo {
+    font-size: 80px;
+    color: darkred;
+    font-weight: bold;
+}
